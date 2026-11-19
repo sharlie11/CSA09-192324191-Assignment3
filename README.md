@@ -2,10 +2,10 @@
 
 | Field | Value |
 |---|---|
-| Name | B Hitesh Roy |
-| Register number | 192372036 |
+| Name | Sharlie Gifta|
+| Register number | 192324191 |
 | Course | CSA09 / CSA0923 Programming with Java |
-| Repository | https://github.com/rootsolve12/CSA09-192372036-Assignment3 |
+| Repository | https://github.com/rootsolve12/CSA09-192324191-Assignment3 |
 | Tested JVM | OpenJDK 21.0.13; source requires Java 17+ |
 | Mode | Pair work; partner identity and actual contribution record to be supplied |
 
